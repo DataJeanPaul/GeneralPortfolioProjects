@@ -1,5 +1,5 @@
 # 📊 Data Analyst Portfolio  
-**By Jean Paul** | [GitHub Profile](https://github.com/DataJeanPaul)  [LinkedIn Profile](https://www.linkedin.com/in/jean-paul-sanchez-553823122/)
+**By Jean Paul** | [GitHub Profile](https://github.com/DataJeanPaul)            [LinkedIn Profile](https://www.linkedin.com/in/jean-paul-sanchez-553823122/)
 
 A collection of data analysis projects demonstrating expertise in **SQL, Python, web scraping, API automation, data cleaning, and visualization**.  
 
